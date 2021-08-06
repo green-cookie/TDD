@@ -16,3 +16,7 @@ https://fastcampus.co.kr/dev_red_ygw
 ## 5주차
 - 2부 5강~6강
 - ✏️GW코드를 예시로 짜보기 (optional)
+
+## 6주차
+- 2부 7강~8강
+- ✏️Mock VS Stub 차이점 명확한 예시코드 준비해서 논의하기
